@@ -1,5 +1,4 @@
-# Olá, Eu sou Larissa! 👋  
-### 💻 :)
+# Olá! 👋  
 🌱 Atualmente estou aprendendo **Python**  
 🧩 Curiosidade: **Gosto de montar quebra-cabeças!**
 
