@@ -1,4 +1,4 @@
-# Larissa HOLANDA
+# LARISSA HOLANDA
 
 Minha primeira experiência com programação foi aos 14 anos, quando escrevi minha primeira linha de código no jogo The Doctor and the Dalek.
 
